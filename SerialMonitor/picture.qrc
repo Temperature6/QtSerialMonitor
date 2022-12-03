@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/clear.png</file>
+        <file>pic/exit.png</file>
+        <file>pic/port_close.png</file>
+        <file>pic/port_open.png</file>
+        <file>pic/refrush.png</file>
+        <file>pic/save.png</file>
+        <file>pic/send.png</file>
+        <file>pic/app_logo.png</file>
+        <file>pic/history.png</file>
+    </qresource>
+</RCC>
